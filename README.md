@@ -29,12 +29,12 @@ Berat is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
  <li>Sonatype Nexus</li>
  </ul>
 
-<a href="https://www.linkedin.com/in/hasanhuseyinakkoca" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/hasanhuseyinakkoca">
+<a href="https://www.linkedin.com/in/berat-orhan-247b861b7/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/berat-orhan-247b861b7/">
 </a>
 <a href="mailto:berat497@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:berat497@gmail.com">
 </a>
-<!--<a href="https://medium.com/@kendentry" target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@kendentry">
+<!--<a href="https://medium.com/@berat497" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@berat497">
 </a> -->
