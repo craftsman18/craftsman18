@@ -24,9 +24,9 @@ Berat is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="
  <li>Kubernetes</li>
  <li>Jenkins</li>
  <li>Grafana</li>
- <li>Prometheus</li>
+ <li>Terraform</li>
  <li>Ansible</li>
- <li>Sonatype Nexus</li>
+ <li>Git/Gitlab</li>
  </ul>
 
 <a href="https://www.linkedin.com/in/berat-orhan-247b861b7/" target="_blank">
